@@ -1,9 +1,7 @@
 # wkhtmltopdf-binary-edge
-This is forked from tolgap/wkhtmltopdf-binary.
+This is forked from pallymore/wkhtmltopdf-binary-edge which itself is forked from tolgap/wkhtmltopdf-binary.
 
-### If you are using wkhtmltopdf on heroku, please use [this gem](https://github.com/rposborne/wkhtmltopdf-heroku) instead!
-
-For Alpine Linux support, please use [this fork](https://github.com/khalilgharbaoui/wkhtmltopdf-binary-edge-alpine) instead.
+The binaries here are not the standard ones that shipped with pallymore/wkhtmltopdf-binary-edge but i cannot remember where they came from or why we changed them :/
 
 ## Installation
 In your `Gemfile`:
